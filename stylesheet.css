@@ -1,0 +1,14 @@
+
+
+/* Footer */
+footer p {
+  color: white;
+  background-color: grey;
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
