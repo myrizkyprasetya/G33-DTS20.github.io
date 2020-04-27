@@ -154,6 +154,10 @@ header {
   position: relative;
 }
 
+.about-icon img{
+   border-radius: 50%;
+}
+
 .about-icon p {
   position: absolute;
   top: 44%;
